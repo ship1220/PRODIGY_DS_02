@@ -1,4 +1,4 @@
-<img width="966" height="652" alt="image" src="https://github.com/user-attachments/assets/09c6afd2-669c-471a-a5f2-d42b4cc28988" /># TASK 2 - Exploratory Data Analysis (EDA) on Titanic Dataset
+# TASK 2 - Exploratory Data Analysis (EDA) on Titanic Dataset
 
 This project performs data cleaning and exploratory data analysis (EDA) on the Titanic dataset. It aims to identify variable relationships, trends, and missing data issues that could influence survival predictions.
 
