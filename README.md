@@ -33,6 +33,10 @@ This project performs data cleaning and exploratory data analysis (EDA) on the T
 
 - Gender and class (`Pclass`) were strong predictors of survival.
 - Female passengers and those in higher classes had notably higher survival rates.
+- Children (age < 16) had a higher survival rate, especially those traveling with family.
+- Male passengers in third class had the lowest survival rate.
+- People with 2 or 3 family members onboard had a higher chance of survival than those traveling alone.
+- The embarkation port (S, C, Q) also showed slight variations in survival, with passengers boarding from Cherbourg (C) having better survival rates.
 - Visualizations like bar plots, histograms, and heatmaps helped uncover correlations and distribution trends.
 
 ---
